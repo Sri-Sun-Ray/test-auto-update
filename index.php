@@ -1,5 +1,5 @@
 <?php
-echo "<h1>V1.0</h1>";
+echo "<h2>V1.2</h2>";
 ?>
 
 <form action="upload.php" method="post" enctype="multipart/form-data">
@@ -9,6 +9,4 @@ echo "<h1>V1.0</h1>";
 
 <br><a href="uploads/">View Uploads button </a>
 <br><a href="uploads/">Submit</a>
-<p>hii! hello</P>
-<br><a href="uploads/">Submit</a>
-<p>hii! hello</P>
+<p> hello</P>
