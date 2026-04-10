@@ -8,4 +8,4 @@ echo "<h1>Version 3</h1>";
 </form>
 
 <br><a href="uploads/">View Uploads button </a>
-<br><a href="upload/">Submit</a>
+<br><a href="uploads/">Submit</a>
