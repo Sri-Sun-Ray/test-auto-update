@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Version 2</h1>";
+echo "<h1>Version 3</h1>";
 ?>
 
 <form action="upload.php" method="post" enctype="multipart/form-data">
