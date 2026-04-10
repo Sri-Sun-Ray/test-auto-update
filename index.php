@@ -7,4 +7,5 @@ echo "<h1>Version 3</h1>";
     <button type="submit">Upload</button>
 </form>
 
-<br><a href="uploads/">View Uploads</a>
+<br><a href="uploads/">View Uploads button </a>
+<br><a href="upload/">Submit</a>
